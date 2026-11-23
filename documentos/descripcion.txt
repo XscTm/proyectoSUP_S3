@@ -1,0 +1,4 @@
+Nombre: Jazminne Angarita
+Curso: 3°D
+Descripción: Este proyecto trata de aprendar a como trabajar con
+ Visual Studio Code.
